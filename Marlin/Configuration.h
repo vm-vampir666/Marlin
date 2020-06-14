@@ -128,7 +128,7 @@
 
 // Choose the name from boards.h that matches your setup
 #ifndef MOTHERBOARD
-  #define MOTHERBOARD BOARD_MELZI_CREALITY
+  #define MOTHERBOARD BOARBOARD_BTT_SKR_E3_DIPD_MELZI_CREALITY
 #endif
 
 // Name displayed in the LCD "Ready" message and Info menu
